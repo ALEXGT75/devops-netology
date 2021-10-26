@@ -25,3 +25,6 @@
 
 (https://disk.yandex.ru/i/pM3iYX8Vc1W0Sw)
  
+
+Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
+https://disk.yandex.ru/i/RI0n-KFde15Tqw
