@@ -5,19 +5,23 @@
 
 Задание №1  - Подготовка рабочей среды:
 
-**Terraform:**
-( https://disk.yandex.ru/i/gLJkOipulMHYyw )
+**Terraform:** 
 
-**Bash:**  
-( https://disk.yandex.ru/i/76cQOfu0y0hWKg )
+(https://disk.yandex.ru/i/gLJkOipulMHYyw)
 
-**Markdown:**
-( https://disk.yandex.ru/i/37qpp2aT5jBGEg )
+**Bash:**   
 
-**Yaml:**
-( https://disk.yandex.ru/i/UHs7UBpNJVhu1w )
+(https://disk.yandex.ru/i/76cQOfu0y0hWKg)
+
+**Markdown:** 
+
+(https://disk.yandex.ru/i/37qpp2aT5jBGEg)
+
+**Yaml:**  
+
+(https://disk.yandex.ru/i/UHs7UBpNJVhu1w)
 
 **Jsonnet:**
 
-( https://disk.yandex.ru/i/pM3iYX8Vc1W0Sw )
+(https://disk.yandex.ru/i/pM3iYX8Vc1W0Sw)
  
